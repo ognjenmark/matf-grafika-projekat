@@ -1,11 +1,27 @@
 {
   "resources": {
     "models": {
+      "army_truck" : {
+        "path" : "army_truck/armytruck.obj",
+        "flip_uvs" : true
+      },
+      "house2": {
+        "path": "house2/Cottage_FREE.obj",
+        "flip_uvs" : true
+      },
+      "floor": {
+        "path": "floor/Floor.obj",
+        "flip_uvs" : true
+      },
+      "chair": {
+        "path": "chair/stolica.obj",
+        "flip_uvs" : true
+      }
     }
   },
   "window": {
     "height": 600,
-    "title": "Hello, window!",
+    "title": "Spooky night",
     "width": 800
   }
 }
